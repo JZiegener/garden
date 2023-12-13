@@ -1,0 +1,3 @@
+10 * * * * ~/photoScript.sh >> ~/photolog.txt
+40 * * * * ~/photoScript.sh >> ~/photolog.txt
+
